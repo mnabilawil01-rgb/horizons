@@ -1,7 +1,7 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/baae4d49-5c8f-4886-8b97-2c1a8e193ca0" />
 
 # 💫 About Me:
-Aku Adalah Seorang Murid Di Smkn 1 Katapang<br>Dan Saya Mengambil Jurusan RPL(Rekayasa Perangkat Lunak)<br>Saya Baru Memahami Beberapa Bahasa Pemrograman<br>Dan Juga Sudah Membuat Beberapa Project Yang Sedang Di Kembangkan<br><br>Mochammad Hizba Destayana
+Aku Adalah Seorang Murid Di Smkn 1 Katapang<br>Dan Saya Mengambil Jurusan RPL(Rekayasa Perangkat Lunak)<br>Saya Baru Memahami Beberapa Bahasa Pemrograman<br>Dan Juga Sudah Membuat Beberapa Project Yang Sedang Di Kembangkan<br><br>Muhammad Nabil Ferdiansyah
 
 
 ## 🌐 Socials:
